@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Kristopher Wilson
+
+I'm a software developer working in Grand Rapids, Michigan, USA. I specialize in
+making web-based business applications in Node JS, React, and GraphQL.
+
+I once wrote a book about writing code in PHP following the Clean Architecture.
+It's (uncreatively) called [Clean Architecture in PHP](https://leanpub.com/cleanphp).
 
 <!--
 **mrkrstphr/mrkrstphr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
